@@ -155,95 +155,89 @@
 ## 4. Evaluating Persuasion
 ### 4.1 Methods
 #### 4.1.1 Prompting
-- [2023] **The Persuasive Power of Large Language Models** 
-- [2024] **How Johnny Can Persuade {LLM}s to Jailbreak Them: Rethinking Persuasion to Challenge {AI} Safety by Humanizing {LLM}s** 
-- [2024] **Measuring and Improving Persuasiveness of Large Language Models** 
-- [2024] **The Earth is Flat because...: Investigating {LLM}s{'} Belief towards Misinformation via Persuasive Conversation** 
-- [2025] **Communication Makes Perfect: Persuasion Dataset Construction via Multi-{LLM} Communication** 
-- [2025] **Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language** 
-- [2025] **Persuade Me if You Can: A Framework for Evaluating Persuasion Effectiveness and Susceptibility Among Large Language Models** 
+- [2024/06] **The Persuasive Power of Large Language Models** *Simon Martin Breum et al. ICWSM 2024.* [[paper](https://arxiv.org/abs/2312.15523)]
+- [2024/08] **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** *Yi Zeng et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.773.pdf)]
+- [2025/04] **Measuring and Improving Persuasiveness of Large Language Models** *Somesh Singh et al. ICLR 2025.* [[paper](https://arxiv.org/abs/2410.02653)]
+- [2024/08] **The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation** *Rongwu Xu et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.858.pdf)]
+- [2025/03] **Persuade Me if You Can: A Framework for Evaluating Persuasion Effectiveness and Susceptibility Among Large Language Models** *Nimet Beyza Bozdag et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2503.01829)]
+- [2025/04] **Communication Makes Perfect: Persuasion Dataset Construction via Multi-LLM Communication** *Weicheng Ma et al. NAACL 2025* [[paper](https://aclanthology.org/2025.naacl-long.203/)]
+- [2025/04] **Measuring and Benchmarking Large Language Models’ Capabilities to Generate Persuasive Language** *Amalie Brogaard Pauli et al. NAACL 2025.* [[paper](https://aclanthology.org/2025.naacl-long.506.pdf)]
+
 
 #### 4.1.2 Incorporating External Information
-- [2015] **Personalizing persuasive technologies: Explicit and implicit personalization using persuasion profiles** 
-- [2017] **Argument Strength is in the Eye of the Beholder: Audience Effects in Persuasion** 
-- [2019] **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** 
-- [2019] **Towards computational persuasion via natural language argumentation dialogues** 
-- [2022] **Persona or Context? Towards Building Context adaptive Personalized Persuasive Virtual Sales Assistant** 
-- [2022] **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** 
-- [2023] **Towards personalized persuasive dialogue generation for adversarial task oriented dialogue setting** 
-- [2024] **Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation** 
-- [2024] **How good are LLMS in generating personalized advertisements?** 
-- [2024] **On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial** 
-- [2024] **Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model** 
-- [2024] **Persuasion Games with Large Language Models** 
-- [2024] **Persuasion-enhanced computational argumentative reasoning through argumentation-based persuasive frameworks** 
-- [2024] **The persuasive effects of political microtargeting in the age of generative artificial intelligence** 
-- [2024] **The potential of generative AI for personalized persuasion at scale** 
-- [2024] **Zero-shot Persuasive Chatbots with {LLM}-Generated Strategies and Information Retrieval** 
-- [2025] **Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind** 
+- [2015/01] **Personalizing persuasive technologies: Explicit and implicit personalization using persuasion profiles** *Maurits Kaptein et al. IJHCS 2015.* [[paper](https://doi.org/10.1016/j.ijhcs.2015.01.004)]
+- [2017/04] **Argument Strength is in the Eye of the Beholder: Audience Effects in Persuasion** *Stephanie Lukin et al. EACL 2017.* [[paper](https://aclanthology.org/E17-1070/)]
+- [2019/07] **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** *Xuewei Wang et al. ACL 2019.* [[paper](https://aclanthology.org/P19-1566/)]
+- [2019/09] **Towards Computational Persuasion via Natural Language Argumentation Dialogues** *Anthony Hunter. KI 2019.* [[paper](https://doi.org/10.1007/978-3-030-30179-8_2)]
+- [2022/11] **Persona or Context? Towards Building Context-adaptive Personalized Persuasive Virtual Sales Assistant** *Abhisek Tiwari et al. AACL-IJCNLP 2022.* [[paper](https://aclanthology.org/2022.aacl-main.76/)]
+- [2022/03] **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** *Maximillian Chen et al. AACL-IJCNLP 2022.* [[paper](https://aclanthology.org/2022.aacl-main.31/)]
+- [2023/01] **Towards Personalized Persuasive Dialogue Generation for Adversarial Task-Oriented Dialogue Settings** *Abhisek Tiwari et al. ESwA 2023.* [[paper](https://doi.org/10.1016/j.eswa.2022.118775)]
+- [2024/12] **Contextualized Counterspeech: Strategies for Adaptation, Personalization, and Evaluation** *Lorenzo Cima et al. arXiv* [[paper](https://arxiv.org/abs/2412.07338)]
+- [2024/03] **On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial** *Francesco Salvi et al. arXiv.* [[paper](https://arxiv.org/abs/2403.14380)]
+- [2024/05] **How Good are LLMs in Generating Personalized Advertisements?** *Elyas Meguellati et al. WWW 2024.* [[paper](https://dl.acm.org/doi/10.1145/3589335.3651520#)]
+- [2024/08] **Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model** *Chuhao Jin et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.92/)]
+- [2024/08] **Persuasion Games with Large Language Models** *Shirish Karande et al. ICON 2024.* [[paper](https://aclanthology.org/2024.icon-1.67.pdf)]
+- [2024/03] **Persuasion-enhanced Computational Argumentative Reasoning through Argumentation-based Persuasive Frameworks** *Ramon Ruiz-Dolz et al. UMUAI 2024.* [[paper](https://doi.org/10.1007/s11257-023-09370-1)]
+- [2024/02] **The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence** *Almog Simchon et al. PNAS Nexus 2024.* [[paper](https://doi.org/10.1093/pnasnexus/pgae035)]
+- [2025/02] **Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind** *Dingyi Zhang and Deyu Zhou. arXiv* [[paper](https://arxiv.org/abs/2502.21297)]
+
 
 ### 4.1.3 Finetuning
-- [2017] **Deal or No Deal? End-to-End Learning of Negotiation Dialogues** 
-- [2019] **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** 
-- [2021] **Recipes for Building an Open-Domain Chatbot** 
-- [2021] **Towards Emotional Support Dialog Systems** 
-- [2022] **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** 
-- [2023] **Direct Preference Optimization: Your Language Model is Secretly a Reward Model** 
-- [2024] **Measuring and Improving Persuasiveness of Large Language Models** 
-- [2024] **Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model** 
+- [2017/09] **Deal or No Deal? End-to-End Learning of Negotiation Dialogues** *Mike Lewis et al. EMNLP 2017.* [[paper](https://aclanthology.org/D17-1259.pdf)]
+- [2019/07] **Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good** *Xuewei Wang et al. ACL 2019.* [[paper](https://aclanthology.org/P19-1566/)]
+- [2021/04] **Recipes for Building an Open-Domain Chatbot** *Stephen Roller et al. EACL 2021.* [[paper](https://aclanthology.org/2021.eacl-main.24/)]
+- [2021/08] **Towards Emotional Support Dialog Systems** *Siyang Liu et al. ACL 2021.* [[paper](https://aclanthology.org/2021.acl-long.269/)]
+- [2022/03] **Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue** *Maximillian Chen et al. AACL-IJCNLP 2022.* [[paper](https://aclanthology.org/2022.aacl-main.31/)]
+- [2024/08] **Persuading across Diverse Domains: a Dataset and Persuasion Large Language Model** *Chuhao Jin et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.92/)]
+- [2025/04] **Measuring and Improving Persuasiveness of Large Language Models** *Somesh Singh et al. ICLR 2025.* [[paper](https://arxiv.org/abs/2410.02653)]
+
 
 ### 4.1.4 Reinforcement Learning
-- [2021] **Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration** 
-- [2022] **A persona aware persuasive dialogue policy for dynamic and co-operative goal setting** 
-- [2022] **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** 
-- [2022] **{PEPDS}: A Polite and Empathetic Persuasive Dialogue System for Charity Donation** 
-- [2025] **Interactive Dialogue Agents via Reinforcement Learning with Hindsight Regenerations**
+- [2021] **Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration** *Weiyan Shi et al. Findings EMNLP 2021* [[paper](https://aclanthology.org/2021.findings-emnlp.295/)]
+- [2022/01] **A persona aware persuasive dialogue policy for dynamic and co-operative goal setting** *Abhisek Tiwari et al. ESwA 2022.* [[paper](https://www.sciencedirect.com/science/article/pii/S0957417421016067?via%3Dihub)]
+- [2022/07] **Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems** *Azlaan Mustafa Samad et al. Findings ACL 2022.* [[paper](https://aclanthology.org/2022.findings-naacl.63.pdf)]
+- [2022/10] **PEPDS: A Polite and Empathetic Persuasive Dialogue System for Charity Donation** *Kshitij Mishra et al. COLING 2022.* [[paper](https://aclanthology.org/2022.coling-1.34.pdf)]
+- [2024/11] **Interactive Dialogue Agents via Reinforcement Learning with Hindsight Regenerations** *Joey Hong et al. arXiv.* [[paper](https://arxiv.org/pdf/2411.05194)]
 
 ## 4.2 Applications of Persuasion
 ### 4.2.1 Negotiation
-- [2017] **Deal or No Deal? End-to-End Learning of Negotiation Dialogues** 
-- [2017] **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue agents** 
-- [2018] **Decoupling Strategy and Generation in Negotiation Dialogues** 
-- [2021] **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** 
-- [2021] **{C}a{S}i{N}o: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems** 
-- [2024] **How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis** 
+- [2017/09] **Deal or No Deal? End-to-End Learning of Negotiation Dialogues** *Mike Lewis et al. EMNLP 2017.* [[paper](https://aclanthology.org/D17-1259.pdf)]
+- [2017/04] **Evaluating Persuasion Strategies and Deep Reinforcement Learning methods for Negotiation Dialogue Agents** *Simon Keize et al. EACL 2017.* [[paper](https://aclanthology.org/E17-2077.pdf)]
+- [2018/10] **Decoupling Strategy and Generation in Negotiation Dialogues** *He He et al. EMNLP 2018.* [[paper](https://aclanthology.org/D18-1256.pdf)]
+- [2021/04] **DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues** *Rishabh Joshi et al. ICLR 2021* [[paper](https://arxiv.org/abs/2106.00920)]
+- [2021/06] **CaSiNo: A Corpus of Campsite Negotiation Dialogues for Automatic Negotiation Systems** *Kushal Chawla et al. NAACL 2021.* [[paper](https://aclanthology.org/2021.naacl-main.254.pdf)]
+- [2024/02] **How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis** *Federico Bianchi et al. arXiv* [[paper](https://arxiv.org/abs/2402.05863)]
+
 
 ### 4.2.2 Debate
-- [2023] **Debate Helps Supervise Unreliable Experts** 
-- [2024] **Improving Factuality and Reasoning in Language Models through Multiagent Debate** 
+- [2023/11] **Debate Helps Supervise Unreliable Experts** *Julian Michael et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.08702)] 
+- [2024] **Improving Factuality and Reasoning in Language Models through Multiagent Debate** *Yilun Du et al. ICML 2024.* [[paper](https://dl.acm.org/doi/10.5555/3692070.3692537)]
 
 ### 4.2.3 Jailbreaking
-- [2023] **Exploiting large language models (llms) through deception techniques and persuasion principles** 
-- [2024] **How Johnny Can Persuade {LLM}s to Jailbreak Them: Rethinking Persuasion to Challenge {AI} Safety by Humanizing {LLM}s** 
-- [2024] **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** 
-- [2024] **The Earth is Flat because...: Investigating {LLM}s{'} Belief towards Misinformation via Persuasive Conversation** 
+- [2023/11] **Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles** *Sonali Singh et al. IEEE 2023* [[paper](https://arxiv.org/pdf/2311.14876)]
+- [2024/08] **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs** *Yi Zeng et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.773.pdf)]
+- [2024/08] **The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation** *Rongwu Xu et al. ACL 2024.* [[paper](https://aclanthology.org/2024.acl-long.858.pdf)]
+- [2024/09] **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** *Nathaniel Li et al. arXiv.* [[paper](https://arxiv.org/pdf/2408.152218)]
 
 ## 5. Safeguarding Persuasion
 ### 5.1 Mitigating Unsafe Persuasion
-- [2023] **Artificial influence: An analysis of AI-driven persuasion** 
-- [2024] **A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI** 
+- [2023/03] **Artificial influence: An analysis of AI-driven persuasion** *Matthew Burtell and Thomas Woodside. arXiv.* [[paper](https://arxiv.org/pdf/2303.08721)]
+- [2024/04] **A Mechanism-Based Approach to Mitigating Harms from Persuasive Generative AI** *Seliem El-Sayed et al. arXiv.* [[paper](https://arxiv.org/pdf/2404.15058)]
 
 ### 5.2 Selective Acceptance of Persuasion
-- [2021] **Resper: Computationally modelling resisting strategies in persuasive conversations** 
-- [2022] **Red Teaming Language Models with Language Models** 
-- [2024] **Towards Understanding Sycophancy in Language Models** 
-- [2025] **Teaching Models to Balance Resisting and Accepting Persuasion** 
+- [2021/04] **ResPer: Computationally Modelling Resisting Strategies in Persuasive Conversations** *Ritam Dutt et al. EACL 2021.* [[paper](https://aclanthology.org/2021.eacl-main.7.pdf)]
+- [2024/05] **Towards Understanding Sycophancy in Language Models** *Mrinank Sharma et al. ICLR 2024.* [[paper](https://openreview.net/pdf?id=tvhaxkMKAn)]
+- [2025/04] **Teaching Models to Balance Resisting and Accepting Persuasion** **Elias Stengel-Eskin et al. NAACL 2025.* [[paper](https://aclanthology.org/2025.naacl-long.412.pdf)]
 
 
 ## 6. Persuasion Beyond English Text
-- [2014] **Computational Analysis of Persuasiveness in Social Multimedia: A Novel Dataset and Multimodal Prediction Approach** 
-- [2021] **{S}em{E}val-2021 Task 6: Detection of Persuasion Techniques in Texts and Images** 
-- [2022] **Multilingual Persuasion Detection: Video Games as an Invaluable Data Source for NLP** 
-- [2022] **{I}mage{A}rg: A Multi-modal Tweet Dataset for Image Persuasiveness Mining** 
-- [2023] **M2P2: Multimodal Persuasion Prediction Using Adaptive Fusion** 
-- [2023] **Persuasion Strategies in Advertisements** 
-- [2023] **Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games** 
-- [2023] **{S}em{E}val-2023 Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multi-lingual Setup** 
-- [2024] **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** 
-- [2024] **{S}em{E}val-2024 Task 4: Multilingual Detection of Persuasion Techniques in Memes** 
-
-
-
-
-
-
+- [2014/11] **Computational Analysis of Persuasiveness in Social Multimedia: A Novel Dataset and Multimodal Prediction Approach** *Sunghyun Park et al. ICMI 2014.* [[paper](http://doi.acm.org/10.1145/2663204.2663260)]
+- [2021/06] **SemEval-2021 Task 6: Detection of Persuasion Techniques in Texts and Images** *Dimitar Dimitrov et al. SemEval 2021.* [[paper](https://aclanthology.org/2021.semeval-1.7/)]
+- [2022/07] **Multilingual Persuasion Detection: Video Games as an Invaluable Data Source for NLP** *Teemu Pöyhönen et al. arXiv 2022.* [[paper](https://arxiv.org/abs/2207.04453)]
+- [2022/10] **ImageArg: A Multi-modal Tweet Dataset for Image Persuasiveness Mining** *Zhexiong Liu et al. ArgMining@COLING 2022.* [[paper](https://aclanthology.org/2022.argmining-1.1/)]
+- [2023/01] **M2P2: Multimodal Persuasion Prediction Using Adaptive Fusion** *Chongyang Bai et al. IEEE 2023.* [[paper](https://doi.org/10.1109/TMM.2021.3134168)]
+- [2023/05] **Persuasion Strategies in Advertisements** *Yaman Kumar Singla et al. arXiv 2023.* [[paper](https://arxiv.org/abs/2208.09626v2)]
+- [2023/07] **Werewolf Among Us: Multimodal Resources for Modeling Persuasion Behaviors in Social Deduction Games** *Bolin Lai et al. Findings ACL 2023.* [[paper](https://aclanthology.org/2023.findings-acl.411/)]
+- [2023/07] **SemEval-2023 Task 3: Detecting the Category, the Framing, and the Persuasion Techniques in Online News in a Multilingual Setup** *Jakub Piskorski et al. SemEval 2023.* [[paper](https://aclanthology.org/2023.semeval-1.317/)]
+- [2024/02] **Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models** *Yuancheng Xu et al. arXiv 2024.* [[paper](https://arxiv.org/abs/2402.06659)]
+- [2024/05] **SemEval-2024 Task 4: Multilingual Detection of Persuasion Techniques in Memes** *Dimitar Dimitrov et al. SemEval 2024.* [[paper](https://aclanthology.org/2024.semeval-1.275/)]
