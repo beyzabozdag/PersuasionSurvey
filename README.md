@@ -26,7 +26,7 @@
   - [3.3 LLM Persuasiveness](##33-llm-persuasiveness)
     - [3.3.1 Human Evaluation](##331-human-evaluation)
     - [3.3.2 Automatic Evaluation](##332-automatic-evaluation)
-- [4. Generating Persuasion](#4-generating-persuasion
+- [4. Generating Persuasion](#4-generating-persuasion)
   - [4.1 Methods](##41-methods)
     - [4.1.1 Prompting](##411-prompting)
     - [4.1.2 Incorporating External Information](##412-incorporating-external-information)
