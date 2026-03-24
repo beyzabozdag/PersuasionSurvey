@@ -355,8 +355,25 @@ When suggesting a paper, please include a short justification indicating how it 
 ## New Papers
 This section tracks recently published or newly discovered papers that are candidates for inclusion in future updates of the survey.
 
-TO BE ADDED!
+- [2025/04] **LLM can be a dangerous persuader: Empirical study of persuasion safety in large language models** *Minqian Liu et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2504.10430)]
+- [2025/05] **ToMAP: Training Opponent-Aware LLM Persuaders with Theory of Mind** *Peixuan Han et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2505.22961)]
+- [2025/06] **It's the Thought that Counts: Evaluating the Attempts of Frontier LLMs to Persuade on Harmful Topics** *Matthew Kowal et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2506.02873)]
+- [2025/09] **Disagreements in Reasoning: How a Model's Thinking Process Dictates Persuasion in Multi-Agent Systems** *Haodong Zhao et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2509.21054)]
+- [2025/10] **MMPersuade: A Dataset and Evaluation Framework for Multimodal Persuasion** *Haoyi Qiu et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2510.22768)]
+- [2025/10] **Make an Offer They Can't Refuse: Grounding Bayesian Persuasion in Real-World Dialogues without Pre-Commitment** *Buwei He et al. arXiv 2025.* [[paper](https://arxiv.org/abs/2510.13387)]
+- [2025/11] **Synthetic Socratic Debates: Examining Persona Effects on Moral Decision and Persuasion Dynamics** *Jiarui Liu et al. EMNLP 2025.* [[paper](https://aclanthology.org/2025.emnlp-main.831/)]
+- [2025/11] **Profiling LLM's Copyright Infringement Risks under Adversarial Persuasive Prompting** *Jikai Long et al. Findings EMNLP 2025.* [[paper](https://aclanthology.org/2025.findings-emnlp.855/)]
+- [2025/11] **Enhancing Persuasive Dialogue Agents by Synthesizing Cross-Disciplinary Communication Strategies** *Shinnosuke Nozue et al. EMNLP Industry 2025.* [[paper](https://aclanthology.org/2025.emnlp-industry.158/)]
+- [2025/11] **Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability in Knowledge and Safety with DuET-PD** *Bryan Chen Zhengyu Tan et al. EMNLP 2025.* [[paper](https://aclanthology.org/2025.emnlp-main.81/)]
+- [2026/01] **Scheming Ability in LLM-to-LLM Interactions** *Thao Pham. LLM-based Multi-Agent Systems Workshop 2026.* [[paper](https://openreview.net/forum?id=Mk49gDdKIX)]
+- [2026/01] **Vulnerability of LLMs' Belief Systems? LLMs Belief Resistance Check Through Strategic Persuasive Conversation Interventions** *Fan Huang et al. arXiv 2026.* [[paper](https://arxiv.org/abs/2601.13590)]
+- [2026/01] **Analysing Differences in Persuasive Language in LLM-Generated Text: Uncovering Stereotypical Gender Patterns** *Amalie Brogaard Pauli et al. arXiv 2026.* [[paper](https://arxiv.org/abs/2601.05751)]
+- [2026/02] **AREG: Adversarial Resource Extraction Game for Evaluating Persuasion and Resistance in Large Language Models** *Adib Sakhawat and Fardeen Sadab. arXiv 2026.* [[paper](https://arxiv.org/abs/2602.16639)]
+- [2026/02] **Persuasion Propagation in LLM Agents** *Hyejun Jeong et al. arXiv 2026.* [[paper](https://arxiv.org/abs/2602.00851)]
+- [2026/03] **Towards Strategic Persuasion with Language Models** *Zirui Cheng and Jiaxuan You. arXiv 2026.* [[paper](https://arxiv.org/abs/2509.22989)]
+- [2026/03] **When Agents Persuade: Propaganda Generation and Mitigation in LLMs** *Julia Jose et al. arXiv 2026.* [[paper](https://arxiv.org/abs/2603.04636)]
 
+MORE TO BE ADDED!
 
 ## How to Cite
 
