@@ -381,9 +381,14 @@ If you find this repository or the survey useful, please cite our paper:
 
 ```bibtex
 @article{bozdag2025readsystematicsurveycomputational,
-      title={Must Read: A Systematic Survey of Computational Persuasion}, 
-      author={Nimet Beyza Bozdag and Shuhaib Mehri and Xiaocheng Yang and Hyeonjeong Ha and Zirui Cheng and Esin Durmus and Jiaxuan You and Heng Ji and Gokhan Tur and Dilek Hakkani-Tür},
-      journal={arXiv preprint arXiv:2505.07775},
-      year={2025},
+   title={Must Read: A Comprehensive Survey of Computational Persuasion},
+   author={Bozdag, Nimet Beyza and Mehri, Shuhaib and Yang, Xiaocheng and Ha, Hyeonjeong and Cheng, Zirui and Durmus, Esin and You, Jiaxuan and Ji, Heng and Tur, Gokhan and Hakkani-Tür, Dilek},
+   ISSN={1557-7341},
+   url={http://dx.doi.org/10.1145/3800687},
+   DOI={10.1145/3800687},
+   journal={ACM Computing Surveys},
+   publisher={Association for Computing Machinery (ACM)},
+   year={2026},
+   month=mar
 }
 ```
