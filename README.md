@@ -184,6 +184,7 @@ Note: We share this spreadsheet to add transparency to the paper selection proce
 - [2024/03] **On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial** *Francesco Salvi et al. arXiv.* [[paper](https://arxiv.org/abs/2403.14380)]
 - [2024/12] **OpenAI o1 System Card** *OpenAI. 2024.* [[paper](https://cdn.openai.com/o1-system-card-20241205.pdf)]
 - [2025/03] **AI-Generated Messages Can Be Used to Persuade Humans on Policy Issues** *Hui Bai et al. Preprint, OSF 2025.* [[paper](https://doi.org/10.31219/osf.io/stakv_v5)]
+- [2026/05] **AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting** *Jibang Wu and Chenghao Yang (co-first), Yi Wu and Simon Mahns (co-second), Chaoqi Wang, Hao Zhu, Fei Fang, and Haifeng Xu. CAIS 2026; ICLR 2026 AIMS Oral.* [[paper](https://dl.acm.org/doi/full/10.1145/3786335.3813172)] [[arXiv](https://arxiv.org/abs/2502.16810)]
 
 
 #### 3.3.2 Automatic Evaluation
@@ -195,6 +196,7 @@ Note: We share this spreadsheet to add transparency to the paper selection proce
 - [2025/03] **Persuasion at Play: Understanding Misinformation Dynamics in Demographic-Aware Human-LLM Interactions** *Angana Borah et al. arXi 2025.* [[paper](https://arxiv.org/abs/2503.02038)] 
 - [2025/04] **Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language** *Amalie Brogaard Pauli et al. NAACL 2025.* [[paper](https://aclanthology.org/2025.naacl-long.506.pdf)]
 - [2025/04] **Measuring and Improving Persuasiveness of Large Language Models** *Somesh Singh et al. ICLR 2025.* [[paper](https://arxiv.org/abs/2410.02653)]
+- [2026/05] **AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting** *Jibang Wu and Chenghao Yang (co-first), Yi Wu and Simon Mahns (co-second), Chaoqi Wang, Hao Zhu, Fei Fang, and Haifeng Xu. CAIS 2026; ICLR 2026 AIMS Oral.* [[paper](https://dl.acm.org/doi/full/10.1145/3786335.3813172)] [[arXiv](https://arxiv.org/abs/2502.16810)]
 
 
 ## 4. Generating Persuasion
@@ -228,6 +230,7 @@ Note: We share this spreadsheet to add transparency to the paper selection proce
 - [2024/02] **The Persuasive Effects of Political Microtargeting in the Age of Generative Artificial Intelligence** *Almog Simchon et al. PNAS Nexus 2024.* [[paper](https://doi.org/10.1093/pnasnexus/pgae035)]
 - 🌱 [2024/11] **Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval** *Kazuaki Furumai et al. EMNLP 2024.* [[paper](https://aclanthology.org/2024.findings-emnlp.656/)]
 - [2025/02] **Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind** *Dingyi Zhang and Deyu Zhou. arXiv* [[paper](https://arxiv.org/abs/2502.21297)]
+- [2026/05] **AI Realtor: Towards Grounded Persuasive Language Generation for Automated Copywriting** *Jibang Wu and Chenghao Yang (co-first), Yi Wu and Simon Mahns (co-second), Chaoqi Wang, Hao Zhu, Fei Fang, and Haifeng Xu. CAIS 2026; ICLR 2026 AIMS Oral.* [[paper](https://dl.acm.org/doi/full/10.1145/3786335.3813172)] [[arXiv](https://arxiv.org/abs/2502.16810)] [[code](https://github.com/yangalan123/AI-Realtor-Codebase)] [[user data](https://huggingface.co/datasets/Sigma-Lab/AI_Realtor_User_Preference_Anonymized)] [[listing data](https://huggingface.co/datasets/Sigma-Lab/AI_Realtor_Listing_Data)]
 
 
 ### 4.1.3 Finetuning
